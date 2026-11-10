@@ -1,0 +1,21 @@
+# Production deployment catalogue (POC). Only `branches` drives targeting.
+customer-a:
+  region: ap-southeast-2
+  branches:
+    environments: main
+    modules: main
+    runner: main
+
+customer-b:
+  region: eu-west-2
+  branches:
+    environments: main
+    modules: main
+    runner: main
+
+customer-c:
+  region: us-east-1
+  branches:
+    environments: main
+    modules: feature/es-upgrade
+    runner: main
