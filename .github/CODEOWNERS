@@ -1,0 +1,4 @@
+# Everything needs a code owner review, except the non-production catalogue,
+# which developers may merge themselves (proposal v5).
+*                                @jsanotheraccount
+/catalogue/non-production.yaml
