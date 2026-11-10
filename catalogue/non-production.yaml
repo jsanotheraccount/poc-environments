@@ -3,5 +3,5 @@ staging:
   region: ap-southeast-2
   branches:
     environments: main
-    modules: feature/es-upgrade
+    modules: main
     runner: main
