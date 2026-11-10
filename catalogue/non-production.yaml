@@ -5,3 +5,10 @@ staging:
     environments: main
     modules: feature/es-upgrade
     runner: main
+
+staging-2:
+  region: ap-southeast-2
+  branches:
+    environments: main
+    modules: main
+    runner: main

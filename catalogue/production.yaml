@@ -14,7 +14,7 @@ customer-b:
     runner: main
 
 customer-c:
-  region: us-east-1
+  region: us-east-2
   branches:
     environments: main
     modules: feature/es-upgrade
