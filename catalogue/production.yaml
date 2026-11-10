@@ -26,3 +26,10 @@ customer-d:
     environments: main
     modules: main
     runner: main
+
+customer-e:
+  region: eu-west-1
+  branches:
+    environments: main
+    modules: main
+    runner: main
