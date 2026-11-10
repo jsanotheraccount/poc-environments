@@ -10,7 +10,7 @@ customer-b:
   region: eu-west-2
   branches:
     environments: main
-    modules: feature/es-upgrade
+    modules: main
     runner: main
 
 customer-c:
