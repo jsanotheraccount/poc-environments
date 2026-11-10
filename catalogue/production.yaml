@@ -19,3 +19,10 @@ customer-c:
     environments: main
     modules: feature/es-upgrade
     runner: main
+
+customer-d:
+  region: eu-west-1
+  branches:
+    environments: main
+    modules: main
+    runner: main
